@@ -1,0 +1,16 @@
+git init (Start new git project)
+
+git status       (displays the state of the working directory)
+
+git add filename (add one file)
+
+git add . (add all files)
+
+git commit -m "your message" (create a commit)
+
+git push origin master (send to github)
+
+
+for more information:
+
+https://www.freecodecamp.org/news/an-introduction-to-git-for-absolute-beginners-86fa1d32ff71/
